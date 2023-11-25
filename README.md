@@ -8,7 +8,7 @@
 
 Requirements :-
 
-python (https://www.python.org/downloads/)
+python (python.org/downloads/)
 sklearn (pip install sklearn)
 openCV (pip install opencv-python)
 numpy (pip install numpy)
